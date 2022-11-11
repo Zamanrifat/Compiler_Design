@@ -1,0 +1,2 @@
+Hello World!  I am CPP.
+posiion = initial + rate * 60
